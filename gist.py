@@ -5,6 +5,8 @@ import json
 import requests
 from pprint import pprint
 
+# add the code you want to share to a txt file and commit a gist in one easy step
+
 content = open("gist.txt", "r").read() # create a text file to hold all the code you intend to share     
 token = Github_Api_Key = os.environ["GITHUB_TOKEN"] # github api token
 g = Github(token)
