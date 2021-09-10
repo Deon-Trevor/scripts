@@ -1,7 +1,9 @@
 guardians.sh
 pagetitle.py
 emailer.py
+appemailer.py
 dirnator.py
+dos.py
 clientlist.py
 check.py
 batchreport.py
